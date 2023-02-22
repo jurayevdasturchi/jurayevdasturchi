@@ -5,7 +5,7 @@ I'm a full stack developer 👨🏻‍💻
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jurayevdasturchi&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false&box_width=11.)<br/>
+![](https://github-readme-stats.vercel.app/api?username=jurayevdasturchi&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false&box_width=100)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jurayevdasturchi&theme=highcontrast&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jurayevdasturchi&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 # 💻 Tech Stack:
