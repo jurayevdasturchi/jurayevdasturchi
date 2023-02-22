@@ -1,5 +1,4 @@
-<h1 style="text-align:center">Hello GitHub 👋🏻</h1>
-
+# Hello GitHub 👋🏻
 
 
 # Tech Stack:
