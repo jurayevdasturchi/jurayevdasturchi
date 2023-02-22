@@ -7,7 +7,7 @@
 # GitHub Stats:
 <!-- <img height=200 width=200 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=rickstaa&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR&theme=dark#gh-dark-mode-only" alt="Rick Staa's Language stats" /> -->
 <!-- ![](https://github-readme-stats.vercel.app/api?username=jurayevdasturchi&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false)<br/> -->
-<img height = 200 width=200 scr="https://github-readme-stats.vercel.app/api?username=jurayevdasturchi&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false" />
+<img height = 100 width=500 scr="https://github-readme-stats.vercel.app/api?username=jurayevdasturchi&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false" />
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=jurayevdasturchi&theme=highcontrast&hide_border=true)<br/> -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jurayevdasturchi&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
