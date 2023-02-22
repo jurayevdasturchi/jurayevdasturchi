@@ -1,4 +1,4 @@
-<h1 style="text-aligin=center">Hello GitHub 👋🏻</h1>
+<h1 style="text-align: center;">Hello GitHub 👋🏻</h1>
 
 
 
