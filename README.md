@@ -1,7 +1,5 @@
-<h1>Hi there 👋</h1>
+# console.log("👋🏻 Hello GitHub")
 
-# About Me:
-I'm a full stack developer 👨🏻‍💻
 
 
 # GitHub Stats:
