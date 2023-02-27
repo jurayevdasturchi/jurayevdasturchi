@@ -8,8 +8,8 @@
 
 <h3>GitHub Stats:</h3>
 
-![](https://github-readme-stats.vercel.app/api?username=jurayevdasturchi&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jurayevdasturchi&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api?username=jurayevdasturchi&theme=great-gatsby&hide_border=true&include_all_commits=true&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jurayevdasturchi&theme=great-gatsby&hide_border=true&include_all_commits=true&count_private=false&layout=compact)<br/>
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=jurayevdasturchi&theme=highcontrast&hide_border=true)<br/> -->
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jurayevdasturchi&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false&layout=compact) -->
 
